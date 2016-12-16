@@ -15,7 +15,7 @@ Follow the following steps and you're good to go! Important: Typescript and npm 
 
 
 
- - 2: Install packages
+- 2: Install packages
 
   npm install
 
