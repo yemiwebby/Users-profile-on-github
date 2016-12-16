@@ -1,2 +1,2 @@
-# User-s-profile-on-github
+# Users-profile-on-github
 Search for any user's profile on github
